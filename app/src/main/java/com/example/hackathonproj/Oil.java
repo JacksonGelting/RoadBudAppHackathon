@@ -51,4 +51,5 @@ public class Oil {
     public void setMiles(int miles) {
         this.miles = miles;
     }
+
 }
