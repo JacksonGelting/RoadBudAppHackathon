@@ -11,6 +11,13 @@
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
 
+    <meta-data
+        android:name="com.google.android.gms.version"
+        android:value="@integer/google_play_services_version" />
+    <meta-data
+        android:name="com.google.android.geo.API_KEY"
+        android:value="${AIzaSyAOC0rUXA7_4Zxt0o3yOrA44PrSSCpF0O8}" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"

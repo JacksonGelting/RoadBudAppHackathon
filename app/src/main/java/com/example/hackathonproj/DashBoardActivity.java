@@ -51,7 +51,7 @@ public class DashBoardActivity extends AppCompatActivity implements SensorEventL
 
         ActivityCompat.requestPermissions(DashBoardActivity.this, new String[] {Manifest.permission.ACTIVITY_RECOGNITION},100);
 
-        
+
         getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
 
         sensorManager = (SensorManager) getSystemService(SENSOR_SERVICE);

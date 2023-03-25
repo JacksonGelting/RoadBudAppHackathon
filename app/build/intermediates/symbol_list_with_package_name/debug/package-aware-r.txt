@@ -2489,6 +2489,8 @@ drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable car
 drawable cars
+drawable circular_progress_bar
+drawable circular_shape
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -2926,8 +2928,16 @@ id percent
 id pin
 id position
 id postLayout
+id progress_bar
+id progress_bar2
+id progress_bar3
+id progress_bar4
 id progress_circular
 id progress_horizontal
+id progress_text
+id progress_text3
+id progress_text4
+id progress_text5
 id radio
 id ratio
 id rectangles
@@ -3025,8 +3035,12 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
 id textView2
 id textView3
+id textView4
+id textView5
+id textView6
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3172,6 +3186,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_dashboard
+layout activity_main
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

@@ -12,12 +12,40 @@
         "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-merged_res-28:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\layout\\activity_dashboard.xml"
     },
     {
         "merged": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-merged_res-28:\\mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-merged_res-28:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-merged_res-28:\\drawable_circular_progress_bar.xml.flat",
+        "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\drawable\\circular_progress_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-merged_res-28:\\drawable_circular_shape.xml.flat",
+        "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\drawable\\circular_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-merged_res-28:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
         "merged": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-merged_res-28:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
@@ -44,10 +72,6 @@
         "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.example.hackathonproj.app-merged_res-28:/layout_activity_dashboard.xml.flat",
-        "source": "com.example.hackathonproj.app-main-30:/layout/activity_dashboard.xml"
-    },
-    {
         "merged": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-merged_res-28:\\drawable-xxhdpi_t9ux2qts.jpg.flat",
         "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\drawable-xxhdpi\\t9ux2qts.jpg"
     },
@@ -60,31 +84,19 @@
         "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\drawable-xxhdpi\\cars.webp"
     },
     {
-        "merged": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-merged_res-28:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.webp"
-    },
-    {
         "merged": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-merged_res-28:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.hackathonproj.app-merged_res-28:/layout_activity_main.xml.flat",
+        "source": "com.example.hackathonproj.app-main-30:/layout/activity_main.xml"
     },
     {
         "merged": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-merged_res-28:\\drawable-xxhdpi_top.jpg.flat",
         "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\drawable-xxhdpi\\top.jpg"
     },
     {
-        "merged": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-merged_res-28:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\mipmap-mdpi\\ic_launcher.webp"
-    },
-    {
         "merged": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-merged_res-28:\\drawable-xxhdpi_car.png.flat",
         "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\drawable-xxhdpi\\car.png"
-    },
-    {
-        "merged": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-merged_res-28:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\alabb\\.gradle\\daemon\\7.3.3\\com.example.hackathonproj.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.webp"
     }
 ]
