@@ -1,0 +1,107 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.hackathonproj"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+11-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:6:5-80
+11-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:6:22-78
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:7:5-79
+12-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+13-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:9:5-78
+13-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:9:22-76
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:11:5-66
+14-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:11:22-64
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:12:5-78
+15-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:12:22-76
+16
+17    <application
+17-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:14:5-33:19
+18        android:allowBackup="true"
+18-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:15:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.7.0] C:\Users\alabb\.gradle\caches\transforms-3\0c734a8f9451ded3159b05d46fc9a23a\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+20        android:dataExtractionRules="@xml/data_extraction_rules"
+20-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:16:9-65
+21        android:debuggable="true"
+22        android:fullBackupContent="@xml/backup_rules"
+22-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:17:9-54
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:18:9-43
+24        android:label="@string/app_name"
+24-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:19:9-41
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:20:9-54
+26        android:supportsRtl="true"
+26-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:21:9-35
+27        android:testOnly="true"
+28        android:theme="@style/Theme.HackathonProj" >
+28-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:22:9-51
+29        <activity
+29-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:24:9-32:20
+30            android:name="com.example.hackathonproj.MainActivity"
+30-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:25:13-41
+31            android:exported="true" >
+31-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:26:13-36
+32            <intent-filter>
+32-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:27:13-31:29
+33                <action android:name="android.intent.action.MAIN" />
+33-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:28:17-69
+33-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:28:25-66
+34
+35                <category android:name="android.intent.category.LAUNCHER" />
+35-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:30:17-77
+35-->C:\Users\alabb\StudioProjects\RoadBudAppHackathon2\app\src\main\AndroidManifest.xml:30:27-74
+36            </intent-filter>
+37        </activity>
+38        <activity
+38-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\alabb\.gradle\caches\transforms-3\9f5638f3b0d5d5ad31072d8a7e8c8480\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+39            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+39-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\alabb\.gradle\caches\transforms-3\9f5638f3b0d5d5ad31072d8a7e8c8480\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+40            android:exported="false"
+40-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\alabb\.gradle\caches\transforms-3\9f5638f3b0d5d5ad31072d8a7e8c8480\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+41            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+41-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\alabb\.gradle\caches\transforms-3\9f5638f3b0d5d5ad31072d8a7e8c8480\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+42
+43        <meta-data
+43-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\alabb\.gradle\caches\transforms-3\5744b546a2a26949c806c122a05a87ed\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+44            android:name="com.google.android.gms.version"
+44-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\alabb\.gradle\caches\transforms-3\5744b546a2a26949c806c122a05a87ed\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+45            android:value="@integer/google_play_services_version" />
+45-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\alabb\.gradle\caches\transforms-3\5744b546a2a26949c806c122a05a87ed\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+46
+47        <provider
+47-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alabb\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+48            android:name="androidx.startup.InitializationProvider"
+48-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alabb\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+49            android:authorities="com.example.hackathonproj.androidx-startup"
+49-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alabb\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+50            android:exported="false" >
+50-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alabb\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+51            <meta-data
+51-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alabb\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+52                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+52-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alabb\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+53                android:value="androidx.startup" />
+53-->[androidx.emoji2:emoji2:1.0.0] C:\Users\alabb\.gradle\caches\transforms-3\9cb5d0b2fd275b8005e0d8fda37c4df6\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+54            <meta-data
+54-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\alabb\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+55                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+55-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\alabb\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+56                android:value="androidx.startup" />
+56-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\alabb\.gradle\caches\transforms-3\8eef53d9995d138e5396bc0361630197\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+57        </provider>
+58    </application>
+59
+60</manifest>
